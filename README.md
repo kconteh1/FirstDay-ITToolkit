@@ -64,9 +64,14 @@ User/
 
 1. Clone the repository or download the script.
 2. Open PowerShell **as your user account**.
-3. Temporarily allow script execution for this session: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-4. Run the script: .\FirstDay-ITToolkit.ps1
-
+3. Temporarily allow script execution for this session:
+```Powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+5. Run the script:
+```Powershell
+.\FirstDay-ITToolkit.ps1
+```
 ---
 
 **Safety Notes**
