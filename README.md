@@ -51,7 +51,7 @@ The script is intentionally designed to be safe, readable, and beginner-friendly
 The script creates the following directories under your user profile:
 
 ```text
-User/
+IT/
 ├── Scripts
 ├── Logs
 ├── Backups
@@ -74,14 +74,14 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 ---
 
-**Safety Notes**
+## Safety Notes
 - The script does not delete files or modify system settings.
 - All changes are user-scoped.
 - Execution policy is checked but not permanently changed.
 - Module installation is limited to the current user.
 
-**Customization**
-- You are encouraged to:
+##  Customization
+You are encouraged to:
 - Add or remove PowerShell modules
 - Modify the folder structure
 - Extend the PowerShell profile configuration
