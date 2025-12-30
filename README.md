@@ -65,11 +65,11 @@ User/
 1. Clone the repository or download the script.
 2. Open PowerShell **as your user account**.
 3. Temporarily allow script execution for this session:
-```Powershell
+```PowerShell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 5. Run the script:
-```Powershell
+```PowerShell
 .\FirstDay-ITToolkit.ps1
 ```
 ---
@@ -81,6 +81,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 - Module installation is limited to the current user.
 
 **Customization**
+
 You are encouraged to:
 - Add or remove PowerShell modules
 - Modify the folder structure
@@ -89,9 +90,11 @@ You are encouraged to:
 - This script is meant to be a starting point.
 
 **License**
+
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this code, provided proper attribution is given.
 
 **Author**
+
 Created and maintained by Kapr Idriss Conteh
 GitHub: https://github.com/kconteh1
