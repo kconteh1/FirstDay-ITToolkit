@@ -50,13 +50,14 @@ The script is intentionally designed to be safe, readable, and beginner-friendly
 
 The script creates the following directories under your user profile:
 
+```text
 User/
 ├── Scripts
 ├── Logs
 ├── Backups
 ├── Modules
 └── Temp
-
+```
 ---
 
 ## How to Run the Script
