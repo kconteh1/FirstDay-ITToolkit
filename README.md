@@ -82,9 +82,9 @@ You are encouraged to:
 - This script is meant to be a starting point.
 
 ##  License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this code, provided proper attribution is given.
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this code, provided proper attribution is given.  
 
 ##  Author
-Created & maintained by Kapr Idriss Conteh
-GitHub: https://github.com/kconteh1
+Created & maintained by Kapr Idriss Conteh  
+GitHub: https://github.com/kconteh1  
