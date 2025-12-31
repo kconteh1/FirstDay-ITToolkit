@@ -61,7 +61,7 @@ IT/
 ```PowerShell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
-5. Run the script:
+4. Run the script:
 ```PowerShell
 .\FirstDay-ITToolkit.ps1
 ```
